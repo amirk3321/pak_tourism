@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "157969677847",
+    "project_id": "pakistantourism-f0ce0",
+    "storage_bucket": "pakistantourism-f0ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157969677847:android:303c0b564b0cd6a3c62652",
+        "android_client_info": {
+          "package_name": "com.example.pak_tourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157969677847-a9pc4uvj0r914d2turqflvb0v3vqgc7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxpCFERjDKYKaY8q3FCy02wpBdrIULmo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157969677847-a9pc4uvj0r914d2turqflvb0v3vqgc7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157969677847:android:44dd828faee65e59c62652",
+        "android_client_info": {
+          "package_name": "com.example.pakistan_tourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157969677847-er8fg9saoh0lk0dhes6v5ljsc4mtbo5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pakistan_tourism",
+            "certificate_hash": "5a204509129bc038a64dd3852cfef95d801e31c9"
+          }
+        },
+        {
+          "client_id": "157969677847-a9pc4uvj0r914d2turqflvb0v3vqgc7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxpCFERjDKYKaY8q3FCy02wpBdrIULmo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157969677847-a9pc4uvj0r914d2turqflvb0v3vqgc7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
